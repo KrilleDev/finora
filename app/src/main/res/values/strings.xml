@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finora</string>
+    <string name="shortcut_add">Ausgabe hinzufügen</string>
+    <string name="widget_desc">Monatsausgaben auf einen Blick</string>
+</resources>
